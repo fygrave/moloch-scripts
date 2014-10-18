@@ -1,0 +1,15 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.out
+*.pid
+*.gz
+*.pyc
+*.pickle
+pids
+logs
+results
+
+config/*
+lib/*
